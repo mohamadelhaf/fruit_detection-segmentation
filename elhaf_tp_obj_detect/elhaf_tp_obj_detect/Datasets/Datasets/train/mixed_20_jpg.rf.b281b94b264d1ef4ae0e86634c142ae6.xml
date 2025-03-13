@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>mixed_20_jpg.rf.b281b94b264d1ef4ae0e86634c142ae6.jpg</filename>
+	<path>C:\Users\etudiant\Downloads\Datasets\Datasets\train\mixed_20_jpg.rf.b281b94b264d1ef4ae0e86634c142ae6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>25</ymin>
+			<xmax>554</xmax>
+			<ymax>582</ymax>
+		</bndbox>
+	</object>
+</annotation>

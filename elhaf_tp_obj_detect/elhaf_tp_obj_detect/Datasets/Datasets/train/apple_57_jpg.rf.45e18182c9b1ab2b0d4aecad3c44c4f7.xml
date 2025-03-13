@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>apple_57_jpg.rf.45e18182c9b1ab2b0d4aecad3c44c4f7.jpg</filename>
+	<path>C:\Users\etudiant\Desktop\elhaf_tp_obj_detect\Datasets\Datasets\train\apple_57_jpg.rf.45e18182c9b1ab2b0d4aecad3c44c4f7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>7</ymin>
+			<xmax>521</xmax>
+			<ymax>631</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>banana_74_jpg.rf.3c40eeae6f65c9052b6515ceb046faf0.jpg</filename>
+	<path>C:\Users\etudiant\Downloads\Datasets\Datasets\train\banana_74_jpg.rf.3c40eeae6f65c9052b6515ceb046faf0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>banana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>137</ymin>
+			<xmax>639</xmax>
+			<ymax>575</ymax>
+		</bndbox>
+	</object>
+</annotation>

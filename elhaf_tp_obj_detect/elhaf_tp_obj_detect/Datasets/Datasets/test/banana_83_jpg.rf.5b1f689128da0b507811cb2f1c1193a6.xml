@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>banana_83_jpg.rf.5b1f689128da0b507811cb2f1c1193a6.jpg</filename>
+	<path>C:\Users\etudiant\Downloads\Datasets\Datasets\test\banana_83_jpg.rf.5b1f689128da0b507811cb2f1c1193a6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>banana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>2</ymin>
+			<xmax>592</xmax>
+			<ymax>577</ymax>
+		</bndbox>
+	</object>
+</annotation>

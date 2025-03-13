@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>orange_83_jpg.rf.a62fb2be2f6c225201de75a257d70bfd.jpg</filename>
+	<path>C:\Users\etudiant\Downloads\Datasets\Datasets\test\orange_83_jpg.rf.a62fb2be2f6c225201de75a257d70bfd.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>57</ymin>
+			<xmax>577</xmax>
+			<ymax>593</ymax>
+		</bndbox>
+	</object>
+</annotation>

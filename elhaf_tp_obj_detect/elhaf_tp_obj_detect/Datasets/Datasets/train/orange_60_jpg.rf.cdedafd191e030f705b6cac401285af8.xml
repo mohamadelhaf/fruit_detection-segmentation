@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>orange_60_jpg.rf.cdedafd191e030f705b6cac401285af8.jpg</filename>
+	<path>/home/etudiant/etudiant-es/down/Datasets/Datasets/train/orange_60_jpg.rf.cdedafd191e030f705b6cac401285af8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>61</ymin>
+			<xmax>562</xmax>
+			<ymax>574</ymax>
+		</bndbox>
+	</object>
+</annotation>

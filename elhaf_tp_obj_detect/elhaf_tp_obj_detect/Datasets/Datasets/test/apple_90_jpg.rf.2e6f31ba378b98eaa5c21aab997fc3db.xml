@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>apple_90_jpg.rf.2e6f31ba378b98eaa5c21aab997fc3db.jpg</filename>
+	<path>C:\Users\etudiant\Downloads\Datasets\Datasets\test\apple_90_jpg.rf.2e6f31ba378b98eaa5c21aab997fc3db.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>42</ymin>
+			<xmax>620</xmax>
+			<ymax>597</ymax>
+		</bndbox>
+	</object>
+</annotation>

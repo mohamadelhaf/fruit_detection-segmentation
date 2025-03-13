@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>apple_75_jpg.rf.dbb658bb08d266b585a459c7160ebeda.jpg</filename>
+	<path>C:\Users\etudiant\Downloads\Datasets\Datasets\train\apple_75_jpg.rf.dbb658bb08d266b585a459c7160ebeda.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>72</ymin>
+			<xmax>629</xmax>
+			<ymax>599</ymax>
+		</bndbox>
+	</object>
+</annotation>
