@@ -1,0 +1,7 @@
+# Paths
+train: C:\Users\mhdel\OneDrive\Bureau\proj_fruits\fruit_detection-segmentation\proj_yolo\yolo\Datasets\train\train  
+val: C:\Users\mhdel\OneDrive\Bureau\proj_fruits\fruit_detection-segmentation\proj_yolo\yolo\Datasets\test\test   
+
+
+nc: 3
+names: ['apple', 'banana', 'orange'] 
